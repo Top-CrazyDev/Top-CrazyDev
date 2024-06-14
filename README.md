@@ -6,7 +6,6 @@ full-stack developer
 
 I am a full-stack developer who loves Node.js
 
-* 🌍  I'm based in Berlin City
 * 🖥️  See my portfolio at [MyPortfolio](http://ztm.com)
 * ✉️  You can contact me at [kevinjohn00318@gmail.com](mailto:kevinjohn00318@gmail.com)
 * 🚀  I'm currently working on [Recipe App](http://recipe.com)
