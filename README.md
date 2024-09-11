@@ -6,7 +6,7 @@ full-stack developer
 
 I am a full-stack developer who loves Node.js
 
-* 🖥️  See my portfolio at [MyPortfolio](http://ztm.com)
+
 * ✉️  You can contact me at 
 * 🧠  I'm learning Ruby
 * 🤝  I'm open to collaborating on projects
