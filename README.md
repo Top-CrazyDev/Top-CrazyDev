@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 full-stack developer
 --------------------
 
-I am a full-stack developer who loves Node.js
+I am a full-stack developer who loves React and Node.js
 
 
 * ✉️  You can contact me at 
